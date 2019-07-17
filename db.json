@@ -1,0 +1,49 @@
+{
+  "streams": [
+    {
+      "title": "123",
+      "description": "abc",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "description": "world",
+      "id": 7
+    },
+    {
+      "title": "Test UserId",
+      "description": "See if UserId is there",
+      "userId": "116960565339586071186",
+      "id": 10
+    },
+    {
+      "title": "Router",
+      "description": "Test history.push()",
+      "userId": "116960565339586071186",
+      "id": 14
+    },
+    {
+      "title": "Kishore",
+      "description": "iafsibgoasog abog ka ht mlsa dispp m;ag u9ybq u0ehaoshfod",
+      "userId": "116960565339586071186",
+      "id": 15
+    },
+    {
+      "title": "Test Editing Stream",
+      "description": "Hey hey ho~~ Using PATCH instead of PUT",
+      "userId": "116960565339586071186",
+      "id": 16
+    },
+    {
+      "title": "test stream",
+      "description": "hello",
+      "userId": "116960565339586071186",
+      "id": 17
+    }
+  ]
+}
